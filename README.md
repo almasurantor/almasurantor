@@ -15,7 +15,7 @@ I'm an aspiring software engineer 💻 with a strong interest in technology and 
 ---
 
 ## 📊 GitHub Stats  
-<table>
+<table> 
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=almasurantor&theme=dark&hide_border=false" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almasurantor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
