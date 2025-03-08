@@ -1,6 +1,6 @@
 ## 🚀 About Me     
 I'm an aspiring software engineer 💻 with a strong interest in technology and finance 📊. Currently pursuing a Computer Science major and an Economics minor at CCNY, I enjoy learning new technologies and solving real-world problems. Outside of my studies, I’m active in sports 🏓⚽🏐. I'm always seeking opportunities to grow and expand my skillset in both the tech field and beyond 🎓
-  
+   
 ## 💻 Tech Stack        
   
 ### **Languages**   
